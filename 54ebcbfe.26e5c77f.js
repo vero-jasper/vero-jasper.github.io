@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{123:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"webassembly","name":"webassembly","count":1,"permalink":"/blog/tags/webassembly"}')}}]);
